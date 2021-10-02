@@ -1,0 +1,2 @@
+D:\C++\Napisane Programy\Air Jet\Debug\Air Jet.exe
+D:\C++\Napisane Programy\Air Jet\Debug\Air Jet.pdb
